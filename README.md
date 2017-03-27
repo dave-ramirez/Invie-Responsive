@@ -1,2 +1,7 @@
 # Invie-Responsive
-Invie Responsive startup
+
+Invie-Responsive es una continuacion de "Invie", esta web cuenta con las tecnologias Html5, Css3, Javascript.
+
+La web es responsive(adaptable a distintos dispositivos), y no cuenta con ningun framework.
+
+Se puede visualizar en https://daveparedes.github.io/Invie-Responsive/
